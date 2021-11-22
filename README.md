@@ -1,4 +1,4 @@
-![header](./images/eq_title_header.png)
+![header](./images/eq_title_header.PNG)
 
 ## Overview of the project
 
@@ -18,11 +18,11 @@ My approach was to use the JavaScript and the D3.js library to retrieve the coor
 
 - Users can change the style to what suits their preference bewtween Street, Satellite and Dark styles.
 
-![map](./images/comp.png)
+![styles_comp](./images/comp.PNG)
 
 - 3 different layers, between Earthquakes, Tectonics and Major Earthquakes, allow the user to look at information to fit their needs. 
 
-![map](./images/layerS_comp.png)
+![layers](./images/layers_comp.PNG)
 
 - The size and color of each earthquake marker is representative of the magnitude of the earthquake. Users can click on any earthquake marker to learn more about the magnitude and location of the earthquake.
 
